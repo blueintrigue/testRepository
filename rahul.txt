@@ -7,6 +7,7 @@ test insert line commit
 test commit by another user
 test data 4
 test data 4.1
+change made locally
 test data 5
 test data 6
 test insert line commit
