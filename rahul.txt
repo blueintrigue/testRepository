@@ -8,7 +8,7 @@ test commit by another user
 change made on github
 test data 4
 test data 4.1
-change made locally
+change made locally 2
 test data 5
 test data 6
 test insert line commit
