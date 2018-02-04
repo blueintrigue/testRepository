@@ -5,11 +5,8 @@ test data 2.a
 test data 3
 test insert line commit
 test commit by another user
-<<<<<<< HEAD
-change made on github 2 and locally 1
-=======
+Change made in Q region
 change made on github 3
->>>>>>> be9d49b224518a4f4b25ca3956c03e731b945a84
 test data 4
 test data 4.1
 change made locally 2
