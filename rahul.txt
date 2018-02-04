@@ -5,7 +5,7 @@ test data 2.a
 test data 3
 test insert line commit
 test commit by another user
-change made on github 2
+change made on github 2 and locally 1
 test data 4
 test data 4.1
 change made locally 2
