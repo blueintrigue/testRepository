@@ -3,10 +3,12 @@ test data 1
 test data 2
 test data 2.a
 test data 3
+test insert line commit
 test data 4
 test data 4.1
 test data 5
 test data 6
+test insert line commit
 test data 7
 test data 8
 test data 9
